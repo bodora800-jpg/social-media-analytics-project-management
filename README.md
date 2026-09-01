@@ -4,14 +4,22 @@ This academic project focused on planning and managing the development of a Soci
 
 ## My Contribution
 
-- Served as the Financial Analyst within the project team.
+- Served as the Financial Analyst for the project and took primary responsibility for the financial planning and analysis.
 
-- Took primary responsibility for the project's financial analysis and cost planning.
+- Determined the project budget and developed the overall cost structure.
 
-- Developed cost estimates and detailed cost justifications.
+- Prepared detailed cost estimates covering project management, hardware, software, training and support, testing, and contingency reserves.
 
-- Conducted financial feasibility analysis using NPV, ROI, and Payback Period.
+- Developed the cost estimate justification and project cost baseline.
 
-- Contributed to the WBS-based cost estimate and project cost baseline.
+- Conducted the financial feasibility analysis, including NPV, ROI, and Payback Period.
 
-- Participated in other project planning and documentation activities with the team
+- Estimated the project's expected financial benefits and evaluated its overall financial viability.
+
+- Contributed collaboratively to the other project management activities and documentation throughout the project
+
+  ## Financial Analysis
+
+As the Financial Analyst, I conducted the project's financial feasibility analysis, including budget planning, NPV, ROI, and Payback Period.
+
+![Financial Analysis](financial_analysis.png)
