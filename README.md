@@ -25,7 +25,7 @@ As the Financial Analyst, I conducted the project's financial feasibility analys
 
 ##Cost Estimate 
 Developed the detailed project cost estimate based on the project work breakdown including project management hardware, software, trainging and support, testing, and contingency reserves.
-![Cost Estimate](wbs.png)
+![Cost Estimate](wbs.jpg)
 
 
 
