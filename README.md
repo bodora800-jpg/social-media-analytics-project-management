@@ -21,6 +21,7 @@ This academic project focused on planning and managing the development of a Soci
   ## Financial Analysis
 
 As the Financial Analyst, I conducted the project's financial feasibility analysis, including budget planning, NPV, ROI, and Payback Period.
+![Financial Analysis](financial_analysis.jpg)
 
 ##Cost Estimate 
 ![Cost Estimate](wbs.png)
