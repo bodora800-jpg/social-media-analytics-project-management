@@ -27,6 +27,26 @@ As the Financial Analyst, I conducted the project's financial feasibility analys
 Developed the detailed project cost estimate based on the project work breakdown including project management hardware, software, trainging and support, testing, and contingency reserves.
 ![Cost Estimate](wbs.jpg)
 
+Skills Demonstrated
+
+- Project Management
+
+- Financial Analysis
+
+- Budget Planning
+
+- Cost Estimation
+
+- NPV, ROI, and Payback Period Analysis
+
+- Work Breakdown Structure (WBS)
+
+- Microsoft Excel
+
+- Scrum
+
+- Team Collaboration
+
 
 
 
